@@ -4,4 +4,4 @@ package main
 
 import "fmt"
 
-func main() { fmt.Println("dh-fixture-retag 1.0.0") }
+func main() { fmt.Println("dh-fixture-retag 1.0.0, retagged") }
